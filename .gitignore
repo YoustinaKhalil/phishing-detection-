@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# الداتا
+Dataset.csv
+Dataset_expanded.csv
+Dataset_expanded.csv.gz
+
+# النوتبوك
+*.ipynb
